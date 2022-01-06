@@ -1,0 +1,24 @@
+body {
+  background-color: thistle;
+}
+
+h1 {
+  text-align: center;
+  font-size: 64px;
+}
+
+p,
+footer {
+  text-align: center;
+}
+
+footer a {
+  margin: 0 10px;
+}
+
+.croissant-photo {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
